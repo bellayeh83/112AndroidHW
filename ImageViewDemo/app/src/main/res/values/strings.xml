@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ImageViewDemo</string>
+    <string name="burger">漢堡</string>
+    <string name="frenchfry">薯條</string>
+    <string name="softdrink">可樂</string>
+    <string name="soup">玉米濃湯</string>
 </resources>
